@@ -1,2 +1,2 @@
 ### About me
-Currently learning JavaScript and Focusing on front-end development and React based project building.
+Front-end developer transitioning to react. New repos demonstrate my React learning progress through real-world implementations.
